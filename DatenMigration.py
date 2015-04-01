@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # Skript: M122_Scripts/phyton/DatenMigration.py
+#
 
 import re
 import csv
